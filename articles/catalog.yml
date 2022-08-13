@@ -1,10 +1,26 @@
+
 PREDEF:
-  - preface.re
+# はじめに
+  - introduction.re
 
 CHAPS:
-  - article.re
-
-APPENDIX:
+# 書斎編
+  - 01syosai.re
+# 私のデスク編
+  - 02wife.re
+# 夫のデスク編
+  - 03husband.re
+# 会議用個室編
+  - 04closet.re
+# ドリンクバーとおやつコーナー編
+  - 05oyatsu.re
+# ネットワーク編
+  - 06network.re
+# 番外編
+  - 07bangai.re
 
 POSTDEF:
+# あとがき
+  - postscript.re
+# 執筆者一覧
   - contributors.re
