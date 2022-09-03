@@ -4,7 +4,6 @@
 
 //pagebreak
 
-
 =={vertical} エルゴノミックマウス
 
 LogicoolのMX VERTICALアドバンス エルゴノミック マウスは@<ttb>{7,700円}でした。
