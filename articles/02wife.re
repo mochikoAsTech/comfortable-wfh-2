@@ -300,3 +300,6 @@ Twitter専用モニター呼ばわりしつつ、YouTubeの縦長動画@<fn>{bil
 370gなので小型のペットボトル飲料くらいの重さで、厚みも2cmしかない。常時Twitterが開きっぱなしで見えているので、逆に「ついブラウザでTwitterを開いて見ちゃう」ということがなくなった。かなり人を選びそうだけど、私はこの縦長モニター、大変気に入りました！
 
 ITPROTECH 14.0型バータイプ液晶モニター Screen Plus（LCD14HCR-IPSW）は@<ttb>{18,980円}でした。
+
+ * @<href>{https://itprotech.jp/monitor/lcd14hcr-ipsw/}
+ 
