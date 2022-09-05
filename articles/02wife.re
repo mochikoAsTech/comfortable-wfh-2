@@ -80,7 +80,7 @@ ErgotronのLX デスクマウントアーム ホワイト（45-537-216）は18,1
  * @<href>{https://www.amazon.co.jp/dp/B000ECUMTS}
  * @<href>{https://www.amazon.co.jp/dp/B08CBCS375}
 
-== ドッキングステーション
+=={docking} ドッキングステーション
 
 USB Type-Aしか挿せないVAIOを捨てて、個人用のノートパソコンをUSB Type-Cの挿せるROG Flow Z13にしたことで、ついにドッキングステーション@<fn>{station}が替えられる日が来た！
 
@@ -302,4 +302,3 @@ Twitter専用モニター呼ばわりしつつ、YouTubeの縦長動画@<fn>{bil
 ITPROTECH 14.0型バータイプ液晶モニター Screen Plus（LCD14HCR-IPSW）は@<ttb>{18,980円}でした。
 
  * @<href>{https://itprotech.jp/monitor/lcd14hcr-ipsw/}
- 
