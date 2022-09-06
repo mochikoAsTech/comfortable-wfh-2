@@ -22,7 +22,7 @@ bookname: comfortable-wfh-2
 language: ja
 
 # 書名
-booktitle: {name: "最高のおうちオフィスではたらく 2", file-as: "サイコウノオウチオフィスデハタラクツー"}
+booktitle: {name: "最高のおうちオフィスではたらく vol. 2", file-as: "サイコウノオウチオフィスデハタラクツー"}
 subtitle: {name: "快適なリモートワーク環境の作り方", file-as: "カイテキナリモートワークカンキョウノツクリカタ"}
 
 # 著者名。「, 」で区切って複数指定できる
