@@ -21,8 +21,9 @@ LogicoolのMX VERTICALアドバンス エルゴノミック マウスは@<ttb>{7
 
 == イヤホン
 
-ヘッドホンとマイクの老舗メーカー、ゼンハイザーの75周年を記念したイヤホン。性能は普通のMOMENTUM True Wireless 2と変わらないが、夫曰く「ロゴが…！格好良い…！」らしい。日本への割り当てがなかったため、マレーシアでプレミア価格で売っているショップを発見し、海外居住者に現地購入を依頼するサービスを通して購入していた。@<fn>{kishikan}
+ヘッドホンとマイクの老舗メーカー、ゼンハイザーの75周年を記念したイヤホン。性能は普通のMOMENTUM True Wireless 2と変わらないが、夫曰く「ロゴが…！格好良い…！」らしい。日本への割り当てがなかったため、マレーシアでプレミア価格で売っているショップ@<fn>{momentum}を発見し、海外居住者に現地購入を依頼するサービスを通して購入していた。@<fn>{kishikan}
 
+//footnote[momentum][@<href>{https://www.pantrade.com.my/momentum-true-wireless-2-anniversary-edition}]
 //footnote[kishikan][非常に既視感を覚える文章である。「最高のおうちオフィスではたらく」の「3.4 ヘッドホン」を参照。今回も私には違いは分からないが夫がうれしそうなのでうれしい。]
 
 以前は、外出時に音楽を聞くためのイヤホンとして先代MOMENTUM True Wirelessを使用しており、後継として購入したが、そもそも外出する機会が少ないので出番もほぼない、とのこと。（@<img>{momentum}）
@@ -31,5 +32,3 @@ LogicoolのMX VERTICALアドバンス エルゴノミック マウスは@<ttb>{7
 //}
 
 ゼンハイザーのMOMENTUM True Wireless 2 75th Anniversary Editionは48,000円、購入の代行手数料が13,000円、合計で@<ttb>{61,000円}でした。
-
- * @<href>{https://www.pantrade.com.my/momentum-true-wireless-2-anniversary-edition}
