@@ -55,6 +55,6 @@ mochikoAsTech
 
 === レビュアー
 
- * Nobuaki Ito
  * Hiroki Zenigami
  * Eri Uemura
+ * Nobuaki Ito
