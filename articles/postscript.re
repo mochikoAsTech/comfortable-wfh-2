@@ -42,7 +42,7 @@ mochikoAsTech
  * ダウンロードURL
  ** @<href>{https://mochikoastech.booth.pm/items/4147131}
  * パスワード
- ** @<ttb>{NekomeshiParty2022}
+ ** @<ttb>{******}
 
 == Special Thanks:
 
